@@ -224,7 +224,7 @@ const questionPool = [
         "answer": [-47, 40],
         "name": "Vela Incident Site, Indian Ocean",
         "image": "images/vela_incident.jpg",
-        "info": "The Vela Incident remains debated, but most independent researchers now believe it was a secret nuclear test, likely conducted jointly by South Africa and Israel."
+        "info": "Detected by an American Vela satellite; Origin of this Incident remains debated, but most independent researchers now believe it was a secret nuclear test, likely conducted jointly by South Africa and Israel."
       },
   
     // Group 4: Questions 16 - 20
