@@ -1,8 +1,8 @@
 // ============================================
 // VERSION AND CACHE RESET
 // ============================================
-const QUESTIONS_VERSION = 'v7';
-const QUIZ_START_DATE = new Date("2025-02-19");
+const QUESTIONS_VERSION = 'v8';
+const QUIZ_START_DATE = new Date("2025-02-20");
 
 // Unified cache clearing function
 function clearCacheAndReload() {
